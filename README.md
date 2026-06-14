@@ -76,7 +76,7 @@ modelscope download --model Wan-AI/Wan2.1-T2V-1.3B --local_dir ./ckpts/Wan2.1-T2
 #### Step 3: Prepare the customized datasets
 
 Download the dataset from <a href='https://huggingface.co/datasets/XuanchengXu/SMRABooth'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange'></a> and place it under `./datasets`.
-(Note: We also provide evaluation prompts at `./SMRABooth/motion_customized/video/XX/combine_test_prompts.json`. You can use our test prompts or create your own.)
+(Note: We also provide some prompts at `./SMRABooth/motion_customized/video/XX/combine_test_prompts.json`. The prompts can be modified according to your needs and do not have to be exactly the same as ours.)
 
 **Directory structure:**
 
