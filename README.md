@@ -21,7 +21,6 @@
 </div>
 
 <br>
-
 <p align="center">
   <a href='https://smrabooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
   &nbsp;
